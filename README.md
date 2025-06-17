@@ -5,3 +5,5 @@ No actual code has been written yet, just claiming this repository name.
 For now all I know is that Dynarec will be an absolute piece of crap to implement, but I know that the n3ds could probably handle at least something dreamcast related running that isn't a port. Contrary to the name 3D support probably won't be a thing and 3dsDC is more to the point but 
 
 Switch/android ports may be a thing but I'm not promising it. n3ds first.
+
+i should probably work on this one day lol
